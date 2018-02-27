@@ -1,1 +1,1 @@
-svn co https://python-xlib.svn.sourceforge.net/svnroot/python-xlib/trunk/Xlib Xlib
+svn co https://github.com/python-xlib/python-xlib.git Xlib
